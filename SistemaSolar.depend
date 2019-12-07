@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1575680283 source:c:\users\erick\documents\codeblocks_projects\sistemasolar\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"math.h"
+
+1442889364 c:\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
